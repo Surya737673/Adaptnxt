@@ -1,0 +1,2 @@
+# Adaptnxt
+web scrapping
